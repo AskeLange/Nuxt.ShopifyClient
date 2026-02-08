@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/AskeLange/Nuxt.ShopifyClient/compare/v1.0.1...v1.0.2) (2026-02-08)
+
+
+### Bug Fixes
+
+* updated node version ([daf534d](https://github.com/AskeLange/Nuxt.ShopifyClient/commit/daf534dceac897dae43852ff69e2178486750485))
+
 ## [1.0.1](https://github.com/AskeLange/Nuxt.ShopifyClient/compare/v1.0.0...v1.0.1) (2026-02-08)
 
 
