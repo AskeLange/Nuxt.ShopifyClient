@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-02-08)
+
+
+### Features
+
+* initial commit ([1ce91cb](https://github.com/AskeLange/Nuxt.ShopifyClient/commit/1ce91cb2e5df9ee68ec72baec5ebc90bab2a4011))
+
 ## 1.0.0 (2024-04-15)
 
 ### Features
