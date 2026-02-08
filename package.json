@@ -1,5 +1,5 @@
 {
-	"name": "@limbo-works/shopify-client",
+	"name": "@aske-lange/shopify-client",
 	"version": "1.0.0",
 	"description": "Nuxt module for interacting with Shopify Storefront API",
 	"repository": "limbo-works/Limbo.Nuxt.ShopifyClient",

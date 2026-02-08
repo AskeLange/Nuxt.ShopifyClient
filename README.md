@@ -1,10 +1,8 @@
-
-
 <p align="center">
 <img src="https://github.com/limbo-works/Limbo.Nuxt.ShopifyClient/assets/44546482/9a8fb9e1-4004-4743-b3d5-9b30aa7fe96c" style="width: 100px;" />
 </p>
 
-<h1 align="center"><pre>@limbo-works/shopify-client</pre></h1>
+<h1 align="center"><pre>@aske-lange/shopify-client</pre></h1>
 
 <h5 align="center">A Nuxt module for interacting with the Shopify Storefront API.</h5>
 
@@ -33,7 +31,7 @@
 Before installing the package, make sure you have the following line in your `.npmrc` file:
 
 ```
-@limbo-works:registry=https://npm.pkg.github.com
+@aske-lange:registry=https://npm.pkg.github.com
 ```
 
 <br />
@@ -41,7 +39,7 @@ Before installing the package, make sure you have the following line in your `.n
 Then install the package with the following command:
 
 ```bash
-yarn add @limbo-works/nuxt-shopify
+yarn add @aske-lange/shopify-client
 ```
 
 <br />
